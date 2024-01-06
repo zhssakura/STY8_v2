@@ -1,4 +1,4 @@
-########################### Basic information of the symbiotic microorganisms of the sponge Stylissa sp.. ########################### 
+######## Basic information of the symbiotic microorganisms of the sponge Stylissa sp. ######## 
 
 ## Taxonomic classification of the eight microbial species, their abbreviations (i.e., OTU + a figure), and the functional population they represent:
 # OTU1: Spongiicolonus versatilis     -- SOB
@@ -11,7 +11,7 @@
 # OTU8: Cenoporarchaeum stylissae     -- AOA
 
 
-#################################### Command lines of using BacArena to get network simulations #################################### 
+####### Command lines of using BacArena to get network simulations #######
 
 # 1. To simulate an in silico growth test for a single microbial species, here is an example using the model of NOB:
 ~/Gh_Sflabelliformis_8_MAGs/10_A_genome-scale_metabolic_network_for_S.flabelliformis_publication/Cmds_for_running_R_scripts/Cmds_Single-species_simulations/Cmds_for_Rscript_BacArena_SingleSpecies__simuDiet_optparse_pFBA_ka.sh
@@ -29,6 +29,6 @@
 ~/Gh_Sflabelliformis_8_MAGs/10_A_genome-scale_metabolic_network_for_S.flabelliformis_publication/Cmds_for_running_R_scripts/Cmds_8-species_network/Cmds_for_Rscript_BacArena_8species__simuDiet_optparse_pFBA_ka.sh
 
 
-########################################################## Citation ################################################################ 
+######## Citation ####### 
 
 Shan Zhang, Weizhi Song, Geogios Marinos, Silvio Waschina, Johannes Zimmermann, Christoph Kaleta, Torsten Thomas. Insights into the metabolic interactions in sponge microbiome: a genome-scale metabolic network for the microbiome of the marine sponge Stylissa sp. (2024)
