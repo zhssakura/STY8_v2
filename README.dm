@@ -11,7 +11,7 @@
 # OTU8: Cenoporarchaeum stylissae     -- AOA
 
 
-####### Command lines of using BacArena to get network simulations #######
+####### Command lines of using BacArena to conduct network simulations #######
 
 # 1. To simulate an in silico growth test for a single microbial species, here is an example using the model of NOB:
 ~/Gh_Sflabelliformis_8_MAGs/10_A_genome-scale_metabolic_network_for_S.flabelliformis_publication/Cmds_for_running_R_scripts/Cmds_Single-species_simulations/Cmds_for_Rscript_BacArena_SingleSpecies__simuDiet_optparse_pFBA_ka.sh
