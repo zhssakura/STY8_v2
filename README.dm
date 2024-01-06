@@ -1,4 +1,4 @@
-######## Basic information of the symbiotic microorganisms of the sponge Stylissa sp. ######## 
+######## Basic information of the symbiotic microorganisms associated with the sponge Stylissa sp. ######## 
 
 ## Taxonomic classification of the eight microbial species, their abbreviations (i.e., OTU + a figure), and the functional population they represent:
 # OTU1: Spongiicolonus versatilis     -- SOB
