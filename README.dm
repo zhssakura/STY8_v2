@@ -31,4 +31,4 @@
 
 ######## Citation ####### 
 
-Shan Zhang, Weizhi Song, Geogios Marinos, Silvio Waschina, Johannes Zimmermann, Christoph Kaleta, Torsten Thomas. (2024) Insights into the metabolic interactions in sponge microbiome: a genome-scale metabolic network for the microbiome of the marine sponge Stylissa sp.
+Shan Zhang, Weizhi Song, Geogios Marinos, Silvio Waschina, Johannes Zimmermann, Christoph Kaleta, Torsten Thomas. (2024) Genome-scale metabolic modelling reveals interactions and key roles of symbiont clades in a sponge holobiont.
